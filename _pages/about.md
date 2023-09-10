@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Chao Tan is a junior majoring in Optoelectronic Information Science and Engineering in the [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/)at [Sichuan University] (https://en.scu.edu.cn/).  His research interest includes Computational Imaging (Fourier ptychography) and 3D display (Computer generate holograhy). His previous major was Architecture in the School of Architecture and Environment at SCU. He switched his major to Optoelectronic Information in 2021 because he was interested in imaging, display, and holography. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am very fortunate to be advised by [Prof.An Pan ](http://www.piclaboratory.com/) of Pioneering Interdiscipline Center from [Xi'an Institute of Optics and Precision Mechanics ](http://english.opt.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/). I was advised by [Prof. Jun Wang] from [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/)at [Sichuan University] (https://en.scu.edu.cn/).
 
 A data-driven personal website
 ======
