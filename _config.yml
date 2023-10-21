@@ -14,7 +14,8 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"breadcrumbs              : false # true, false (default)
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -47,47 +48,41 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-# # Social Sharing
+# Social Sharing
 twitter:
-   username               : &twitter
- facebook:
-   username               :
+  username               : &twitter
+facebook:
+  username               :
   app_id                 :
   publisher              :
- og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
-
 # Site Author
 author:
   name             : "Chao Tan"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Shaanxi Xian"
+  location         : "Location"
   employer         :
- # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
- # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : tanchao@stu.scu.edu.cn
-# researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,27 +90,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
- # github           : "academicpages"
+  github           : "academicpages"
   google_plus      :
-  #  keybase          :
+  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : www.linkedin.com/in/chao-tan-5a701727b
+  linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
-    pinterest        :
-    soundcloud       :
-   stackoverflow    : # http://stackoverflow.com/users/123456/username
- steam            :
-    tumblr           :
-   twitter          : "replacethistwitterhandle"
-    vine             :
-    weibo            :
-    xing             :
-   youtube          :
-    wikipedia        :
-
-
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 # Reading Files
 include:
   - .htaccess
@@ -150,8 +143,6 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
