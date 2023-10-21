@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "your Name / site Title""
+title                    : "Your Name"
 title_separator          : "-"
 name                     : &name "Chao Tan"
 description              : &description "personal description"
