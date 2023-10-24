@@ -1,17 +1,10 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Sichuan, Sichuan University, 2012
+* B.S. in Sichuan, Sichuan University, 2022
 
 
 Work experience
