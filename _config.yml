@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
+locale                   : "China, Xian"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Chao Tan"
-description              : &description "personal description"
+
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
