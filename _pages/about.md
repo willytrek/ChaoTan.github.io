@@ -49,21 +49,8 @@ teacher (78+1) using Zemax and Solidworks.
 -camera mounting、adjust
 ![](/images/camera.png)
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .pixel {
-    width: 1px;
-    height: 1px;
-  }
-</style>
-</head>
-<body>
 
-<img class="pixel" src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" />
-
-</body>
-</html>
-
+<a href=" " title="Visit tracker">
+ <img src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" width="1" height="1" />
+</a >
 
