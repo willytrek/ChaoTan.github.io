@@ -1,7 +1,7 @@
 ---
 title: "Large field-of-view holographic Maxwellian display based on spherical crown diffraction"
 collection: publications
-permalink: /publication/2023-10-01-paper-title-number-2
+permalink: /publication/2023-06-21-paper-title-number-2
 
 date: 2023-06-21
 venue: 'Optics Express'
