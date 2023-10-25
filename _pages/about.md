@@ -36,5 +36,14 @@ holographic display with immense potential for applications in mixed reality and
 * Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University* 
     (Mar 2023 - Jun 2023)
   
--Designed and assembled a camera capable of capturing all students in the grade along with the
+Designed and assembled a camera capable of capturing all students in the grade along with the
 teacher (78+1) using Zemax and Solidworks.
+
+*Served as deputy leader*
+
+-completed preliminary design of the optical section
+
+-mechanical design
+
+-camera mounting、adjust
+
