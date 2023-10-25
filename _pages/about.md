@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Chao Tan is a final year undergraduate majoring in Optoelectronic Information Science and Engineering at the [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) at [Sichuan University](https://en.scu.edu.cn/).  His research interest includes Computational Imaging (Fourier ptychography) and 3D display (Computer-generated holography). His previous major was Architecture in the School of Architecture and Environment at SCU. He switched his major to Optoelectronic Information in 2021 because he was interested in imaging, display, and holography. 
+I am a final year undergraduate majoring in Optoelectronic Information Science and Engineering at the [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) at [Sichuan University](https://en.scu.edu.cn/).  My research interest includes Computational Imaging, 3D Display, and Biomedical imaging. My previous major was Architecture in the School of Architecture and Environment at SCU. I switched my major to Optoelectronic Information in 2021 because I was interested in imaging, display, and holography. 
 
-He is very fortunate to be advised by [Prof. An Pan ](http://www.piclaboratory.com/) of Pioneering Interdiscipline Center from [Xi'an Institute of Optics and Precision Mechanics ](http://english.opt.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/). I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) at [Sichuan University](https://en.scu.edu.cn/).
+I am very fortunate to be advised by [Prof. An Pan ](http://www.piclaboratory.com/) of Pioneering Interdiscipline Center from [Xi'an Institute of Optics and Precision Mechanics ](http://english.opt.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/). I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) at [Sichuan University](https://en.scu.edu.cn/).
 
 # Projects
 
 ## Depth of field extension in Fourier ptychography microscope using digital refocusing
-*Independent Research, Supervised by Prof. An Pan,Xi'an Institute of Optics and Precision Mechanics,Chinese Academy of Science*
+*Independent Research, Supervised by Prof. An Pan, Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Science*     (2023/7- present)
 ## Fast scaled cylindrical holography based on scaled convolution 
-* **Chao Tana**, Jun Wanga<sup>∗</sup>, Yang Wua, Jie Zhoua and Ni Chen                (2022/7-2021/7)
+**Chao Tana**, Jun Wanga<sup>∗</sup>, Yang Wua, Jie Zhoua and Ni Chen                (2022/7-2023/7)
 
 **Abstract**: Recently, the 360° display of cylindrical holography has garnered significant attention. However,
 existing studies have been limited to concentric cylindrical surfaces with equal heights, which restricts
@@ -33,20 +33,20 @@ for the first time. This breakthrough paves the way for the development of a zoo
 holographic display with immense potential for applications in mixed reality and beyond
 
 ## Camera Design for the Whole Grade Family Photo
-* Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University
+* Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University*
     (Mar 2023 - Jun 2023)
   
 Designed and assembled a camera capable of capturing all students in the grade along with the
 teacher (78+1) using Zemax and Solidworks.
 
-*Served as deputy leader
+*Served as deputy leader*
 
 -completed preliminary design of the optical section
 
 -mechanical design
 
 -camera mounting、adjust
-
+![](/images/r3.png)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff&w=a"></script>
 <a href="https://clustrmaps.com/site/1bx3e"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" /></a>
