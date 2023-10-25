@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Large field-of-view holographic Maxwellian display based on spherical crown diffraction"
 permalink: /publications/
 author_profile: true
 ---
