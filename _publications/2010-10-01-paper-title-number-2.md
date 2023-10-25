@@ -9,4 +9,4 @@ venue: 'Optics Express'
 ---
 
 
-[Download paper here](https://doi.org/10.1364/OE.494573)
+[Details here](https://doi.org/10.1364/OE.494573)
