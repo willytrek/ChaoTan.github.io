@@ -11,4 +11,9 @@ Chao Tan is a final year undergraduate majoring in Optoelectronic Information Sc
 
 I am very fortunate to be advised by [Prof. An Pan ](http://www.piclaboratory.com/) of Pioneering Interdiscipline Center from [Xi'an Institute of Optics and Precision Mechanics ](http://english.opt.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/). I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) at [Sichuan University](https://en.scu.edu.cn/).
 
+# Projects
 
+## Fast Non-line-of-sight Imaging with Non-planar Relay Surfaces 
+
+## Non-Line-of-Sight (NLOS) Imaging System and Algorithm
+## Holographic Reconfigurable Intelligent Surfaces Antenna Design and Optimization
