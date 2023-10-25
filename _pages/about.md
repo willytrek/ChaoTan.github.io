@@ -1,5 +1,3 @@
-
-
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -47,10 +45,6 @@ teacher (78+1) using Zemax and Solidworks.
 -mechanical design
 
 -camera mounting、adjust
-
-
-
-
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff&w=a"></script>
