@@ -16,7 +16,7 @@ He is very fortunate to be advised by [Prof. An Pan ](http://www.piclaboratory.c
 ## Depth of field extension in Fourier ptychography microscope using digital refocusing
 *Independent Research, Supervised by Prof. An Pan,Xi'an Institute of Optics and Precision Mechanics,Chinese Academy of Science*
 ## Fast scaled cylindrical holography based on scaled convolution 
-* **Chao Tana**, Jun Wanga,∗, Yang Wua, Jie Zhoua and Ni Chen*                (2022/7-2021/7)
+* **Chao Tana**, Jun Wanga<sup>∗</sup>, Yang Wua, Jie Zhoua and Ni Chen                (2022/7-2021/7)
 
 **Abstract**: Recently, the 360° display of cylindrical holography has garnered significant attention. However,
 existing studies have been limited to concentric cylindrical surfaces with equal heights, which restricts
@@ -33,13 +33,13 @@ for the first time. This breakthrough paves the way for the development of a zoo
 holographic display with immense potential for applications in mixed reality and beyond
 
 ## Camera Design for the Whole Grade Family Photo
-* Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University* 
+* Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University
     (Mar 2023 - Jun 2023)
   
 Designed and assembled a camera capable of capturing all students in the grade along with the
 teacher (78+1) using Zemax and Solidworks.
 
-*Served as deputy leader*
+*Served as deputy leader
 
 -completed preliminary design of the optical section
 
