@@ -31,8 +31,8 @@ verified through numerical simulations and optical experiments. Therefore, the i
 on the object’s height in cylindrical holography is thoroughly discussed and effectively addressed
 for the first time. This breakthrough paves the way for the development of a zoom-able cylindrical
 holographic display with immense potential for applications in mixed reality and beyond
-![](/images/experiment1.png)
-![](/images/experiment2.png)
+![](/images/experiment.png)
+
 ## Camera Design for the Whole Grade Family Photo
 * Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University*
     (Mar 2023 - Jun 2023)
@@ -47,8 +47,8 @@ teacher (78+1) using Zemax and Solidworks.
 -mechanical design
 
 -camera mounting、adjust
-![](/images/camera1.png)
-![](/images/camera2.png)
+![](/images/camera.png)
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff&w=a"></script>
 <a href="https://clustrmaps.com/site/1bx3e"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" /></a>
