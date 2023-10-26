@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a final year undergraduate majoring in Optoelectronic Information Science and Engineering at the [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) at [Sichuan University](https://en.scu.edu.cn/).  My research interest includes Computational Imaging, 3D Display, and Biomedical imaging. My previous major was Architecture in the School of Architecture and Environment at SCU. I switched my major to Optoelectronic Information in 2021 because I was interested in imaging, display, and holography. 
 
-I am very fortunate to be advised by [Prof. An Pan ](http://www.piclaboratory.com/) of Pioneering Interdiscipline Center from Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/). I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from the College of Electronics and Information Engineering at Sichuan University.
+I am very fortunate to be advised by [Prof. An Pan ](http://www.piclaboratory.com/) of Pioneering Interdiscipline Center from Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/). I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from the College of Electronics and Information Engineering at Sichuan University during 2022/7-2023/7.
 
 # Projects
 
@@ -31,6 +31,8 @@ verified through numerical simulations and optical experiments. Therefore, the i
 on the object’s height in cylindrical holography is thoroughly discussed and effectively addressed
 for the first time. This breakthrough paves the way for the development of a zoom-able cylindrical
 holographic display with immense potential for applications in mixed reality and beyond.
+
+
 ![](/images/experiment.png)
 
 ## Camera Design for the Whole Grade Family Photo
@@ -46,11 +48,10 @@ teacher (78+1) using Zemax and Solidworks.
 
 -mechanical design
 
--camera mounting、adjust
+-camera mounting,adjust
+
+
 ![](/images/camera.png)
 
 
-<a href=" " title="Visit tracker">
- <img src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" width="1" height="1" />
-</a >
 
