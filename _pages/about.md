@@ -37,7 +37,4 @@ Designed and assembled a camera capable of capturing all students in the grade a
 ![Camera Image](/images/mstile-70x70.png)
 
 
-<a href=" " title="Visit tracker">
- <img src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" width="1" height="1" />
-</a>
 
