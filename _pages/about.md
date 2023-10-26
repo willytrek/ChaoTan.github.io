@@ -28,7 +28,7 @@ Fannuo Xu, Zipei Wu, **Chao Tan**, Yizheng Liao, Keru Chen, and An Pan<sup>∗</
 
 **Abstract**: Recently, the 360° display of cylindrical holography has garnered significant attention. However, existing studies have been limited to concentric cylindrical surfaces with equal heights, which restricts the height of the objects. In this paper, a fast scaled cylindrical holography is proposed based on scaled convolution to break this constraint. Firstly, the scale cylindrical diffraction is derived using the Rayleigh-Sommerfeld diffraction formula for scaled cylindrical holography, in which the object’s height can be adjusted. Then, a method of fast scaled cylindrical diffraction is presented by scaled convolution based on scaled Fourier Transform, and it significantly reduces computational time, enhancing its practical feasibility. Furthermore, the proposed method is extended to 3D objects using a layer-oriented approach. Moreover, the effectiveness and feasibility of the proposed method are verified through numerical simulations and optical experiments. Therefore, the issue of the constraint on the object’s height in cylindrical holography is thoroughly discussed and effectively addressed for the first time. This breakthrough paves the way for the development of a zoomable cylindrical holographic display with immense potential for applications in mixed reality and beyond.
 
-![](/images/experiment.png)
+![](https://github.com/willytrek/ChaoTan.github.io/blob/master/files/experiment.png)
 
 ## Camera Design for the Whole Grade Family Photo
 *Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University* (Mar 2023 - Jun 2023)
@@ -40,7 +40,7 @@ Designed and assembled a camera capable of capturing all students in the grade a
 - Performed mechanical design.
 - Handled camera mounting and adjustment.
 
-![](/images/camera.png)
+![](https://github.com/willytrek/ChaoTan.github.io/blob/master/files/camera.png)
 
 
 
