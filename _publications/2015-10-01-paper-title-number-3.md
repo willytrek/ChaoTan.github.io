@@ -3,7 +3,7 @@ title: "Fourier ptychographic microscopy 10 years on: A review （Invited）"
 collection: publications
 
 venue: 'Cells'
-custom_status：'Peer review'
+custom_status: peer review
 
 ---
 
