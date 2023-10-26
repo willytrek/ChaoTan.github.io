@@ -15,7 +15,13 @@ I am very fortunate to be advised by [Prof. An Pan](http://www.piclaboratory.com
 # Projects
 
 ## Depth of Field Extension in Fourier Ptychography Microscope Using Digital Refocusing
-*Independent Research, Supervised by Prof. An Pan, Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Science* (2023/7 - present)
+*Supervised by Prof. An Pan, Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Science* (2023/7 - present)
+
+## Fourier ptychographic microscopy 10 years on: A review （Invited）
+Fannuo Xu, Zipei Wu, **Chao Tan**, Yizheng Liao, Keru Chen, and An Pan<sup>∗</sup>
+
+
+**Abstract**:In 2013, Fourier ptychographic microscopy (FPM) emerged as a groundbreaking imaging technique, garnering widespread attention due to its remarkable features: high resolution, wide field-of-view (FOV), and quantitative phase recovery. Over the past decade, FPM has evolved into a pivotal tool in microscopy, finding applications in diverse fields such as biomedicine, scientific research, and inspection and metrology. This evolution is rooted in its ability to address the long-standing challenge of balancing resolution and FOV in imaging systems. In this comprehensive review, we delve into the fundamental principles of FPM, drawing comparisons with related imaging modalities. Furthermore, we explore various experimental implementations and highlight key milestones in four crucial technological aspects: speed, three-dimensionality, color imaging, and the integration of deep learning. As a high-throughput optical imaging technique, FPM offers a multitude of applications, ranging from digital pathology and drug screening to label-free imaging. Despite its already impressive accomplishments, we emphasize that FPM is still in its nascent stages, leaving ample room for further advancements. We conclude by discussing the pertinent challenges that lie ahead and the promising future applications of FPM.
 
 ## Fast Scaled Cylindrical Holography Based on Scaled Convolution
 **Chao Tana**, Jun Wanga<sup>∗</sup>, Yang Wua, Jie Zhoua, and Ni Chen (2022/7 - 2023/7)
