@@ -40,7 +40,8 @@ Designed and assembled a camera capable of capturing all students in the grade a
 - Performed mechanical design.
 - Handled camera mounting and adjustment.
 
-![](https://github.com/willytrek/ChaoTan.github.io/blob/master/files/camera.png)
+<img src="https://github.com/willytrek/ChaoTan.github.io/blob/master/files/camera.png" alt="Camera Image">
+
 
 
 
