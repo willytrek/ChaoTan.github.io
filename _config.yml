@@ -10,7 +10,11 @@ locale                   : "China, Xi'an"
 title                    : "Chao Tan"
 title_separator          : "-"
 name                     : &name "Chao Tan"
+<<<<<<< HEAD
 description              : "Seeking graduate positions for the Fall of 2024"
+=======
+description              : &description "Final-year undergraduate at Sichuan University"
+>>>>>>> parent of d607c68 (Update _config.yml)
 url                      : https://willytrek.github.io/ChaoTan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "willytrek/ChaoTan.github.io"
