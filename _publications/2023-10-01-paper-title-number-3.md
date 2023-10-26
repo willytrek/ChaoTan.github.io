@@ -4,7 +4,7 @@ collection: publications
 
 venue: 'Cells'
 date: 2023-10-25
-custom_status:(peer review)
+custom_status: (peer review)
 
 ---
 
