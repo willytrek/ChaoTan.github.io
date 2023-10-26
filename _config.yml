@@ -24,7 +24,7 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
-	@@ -29,7 +29,7 @@ comments:
+
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -32,7 +32,6 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-	@@ -40,19 +40,21 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
@@ -52,7 +51,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-	@@ -67,47 +69,54 @@ social:
+
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
