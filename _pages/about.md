@@ -28,13 +28,14 @@ I am very fortunate to be advised by [Prof. An Pan](http://www.piclaboratory.com
 *Curriculum Design: Supervised by Prof. Lei Li, College of Electronics and Information Engineering, Sichuan University* (Mar 2023 - Jun 2023)
 
 Designed and assembled a camera capable of capturing all students in the grade along with the teacher (78+1) using Zemax and Solidworks.
-
+![Camera I111mage](/images/image-alignment-1200x4002.jpg)
 *Served as deputy leader*
 - Completed the preliminary design of the optical section.
 - Performed mechanical design.
 - Handled camera mounting and adjustment.
 
-![Camera Image](/images/camera1.png)
+![Camera Image](/images/mstile-70x70.png)
+
 
 <a href=" " title="Visit tracker">
  <img src="//www.clustrmaps.com/map_v2.png?d=2LJqbuFDxXczlIfK6kSteODOsJRVe6xGql48cRcnNe0&cl=ffffff" width="1" height="1" />
