@@ -7,5 +7,4 @@ custom_status: (Peer review)
 
 
 ---
-[Details here](https://willytrek/ChaoTan.github.io/files/manuscript.pdf)
-<a href="willytrek/ChaoTan.github.io/files/manuscript.pdf" target="_blank">PDF.</a>
+<a href="https://raw.githubusercontent.com/willytrek/ChaoTan.github.io/master/files/manuscript.pdf" target="_blank">PDF</a>
