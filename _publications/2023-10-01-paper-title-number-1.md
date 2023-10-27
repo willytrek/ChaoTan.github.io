@@ -7,5 +7,4 @@ custom_status: (Peer review)
 
 
 ---
-[Details here]([/files/manuscript.pdf](https://github.com/willytrek/ChaoTan.github.io/blob/master/files/manuscript.pdf)https://github.com/willytrek/ChaoTan.github.io/blob/master/files/manuscript.pdf)
-
+[Details here](https://github.com/willytrek/ChaoTan.github.io/blob/master/files/manuscript.pdf)
