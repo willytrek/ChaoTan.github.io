@@ -7,5 +7,5 @@ custom_status: (Peer review)
 
 
 ---
-[Details here](/files/resume.pdf)
+[Details here](/files/manuscript.pdf)
 
