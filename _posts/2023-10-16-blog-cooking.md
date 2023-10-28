@@ -1,41 +1,41 @@
----
-title: 'Cooking'
-date: 2023-10-20
-permalink: /posts/2023/16
-tags:
-  - Cooking
-  - Experience life
-  - Delicious food
----
+<style>
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* 间距可以根据需要调整 */
+  }
 
-Life is beautiful!
+  .image-card {
+    text-align: center;
+    width: 250px; /* 图片宽度 */
+  }
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://imgur.com/X6x09rA"><img src="https://imgur.com/X6x09rA.jpg" title="Stir-fried minced pork with cabbage" height="250" /></a><br>
-      Stir-fried minced pork with cabbage
-    </td>
-    <td style="text-align: center;">
-      <a href="https://imgur.com/1Jtbdd8"><img src="https://imgur.com/1Jtbdd8.jpg" title="Fried eggs with scallion" height="250" /></a><br>
-      Fried egg with scallion
-    </td>
-    <td style="text-align: center;">
-      <a href="https://imgur.com/Zv9ImAY"><img src="https://imgur.com/Zv9ImAY.jpg" title="Noodles" height="250" /></a><br>
-      Noodles
-    </td>
-  </tr>
-  <tr>
+  .image-card img {
+    max-width: 100%;
+    max-height: 250px; /* 图片高度 */
+  }
+</style>
 
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://imgur.com/ecsQItU"><img src="https://imgur.com/ecsQItU.jpg" title="fried rice with egg" height="250" /></a><br>
-      Fried rice with egg
-    </td>
-    <td style="text-align: center;">
-      <a href="https://imgur.com/ZONUxDB"><img src="https://imgur.com/ZONUxDB.png" title="Tofu" height="250" /></a><br>
-      Tofu
-    </td>
-  </tr>
-</table>
+<div class="image-container">
+  <div class="image-card">
+    <a href="https://imgur.com/X6x09rA"><img src="https://imgur.com/X6x09rA.jpg" title="Stir-fried minced pork with cabbage" /></a>
+    <br>Stir-fried minced pork with cabbage
+  </div>
+  <div class="image-card">
+    <a href="https://imgur.com/1Jtbdd8"><img src="https://imgur.com/1Jtbdd8.jpg" title="Fried eggs with scallion" /></a>
+    <br>Fried egg with scallion
+  </div>
+  <div class="image-card">
+    <a href="https://imgur.com/Zv9ImAY"><img src="https://imgur.com/Zv9ImAY.jpg" title="Noodles" /></a>
+    <br>Noodles
+  </div>
+  <div class="image-card">
+    <a href="https://imgur.com/ecsQItU"><img src="https://imgur.com/ecsQItU.jpg" title="Fried rice with egg" /></a>
+    <br>Fried rice with egg
+  </div>
+  <div class="image-card">
+    <a href="https://imgur.com/ZONUxDB"><img src="https://imgur.com/ZONUxDB.png" title="Tofu" /></a>
+    <br>Tofu
+  </div>
+</div>
