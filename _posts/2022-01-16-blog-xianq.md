@@ -1,0 +1,77 @@
+---
+title: 'Cultural tour in Xi'an'
+date: 2023-10-20
+permalink: /posts/20/08/blog-post-3/
+tags:
+  - History
+  - Lovely relic
+---
+
+The historical relics in Xi 'an are lovely
+
+
+<a href="https://imgur.com/9Qu9vBZ"><img src="https://imgur.com/9Qu9vBZ.jpg" title="museum" /></a>
+
+museum
+
+<a href="https://imgur.com/gRuitaq"><img src="https://imgur.com/gRuitaq.jpg" title="Terra-cotta Warriors" /></a>
+
+
+
+
+<a href="https://imgur.com/UtNsOFv"><img src="https://imgur.com/UtNsOFv.jpg" title="unknown" /></a>
+
+
+
+<a href="https://imgur.com/MDG1kgQ"><img src="https://imgur.com/MDG1kgQ.jpg" title="unknown" /></a>
+
+
+
+<a href="https://imgur.com/4KkMOWf"><img src="https://imgur.com/4KkMOWf.jpg" title="unknown" /></a>
+
+
+
+<a href="https://imgur.com/UtNsOFv"><img src="https://imgur.com/UtNsOFv.jpg" title="unknown" /></a>
+
+
+
+
+
+<a href="https://imgur.com/A3mmMtI"><img src="https://imgur.com/A3mmMtI.jpg" title="unknown" /></a>
+
+
+
+<a href="https://imgur.com/A3mmMtI"><img src="https://imgur.com/A3mmMtI.jpg" title="unknown" /></a>
+
+
+
+<a href="https://imgur.com/rdIsB59"><img src="https://imgur.com/rdIsB59.jpg" title="me" /></a>
+
+Handsome boy (Me) !
+
+
+<a href="https://imgur.com/7VJH3hs"><img src="https://imgur.com/7VJH3hs.jpg" title="Stone lion" /></a>
+
+Stone lion
+
+<a href="https://imgur.com/nMib2DD"><img src="https://imgur.com/nMib2DD.jpg" title="unknown" /></a>
+
+Stone sculpture
+
+<a href="https://imgur.com/SWVbTpZ"><img src="https://imgur.com/SWVbTpZ.jpg" title="unknown" /></a>
+
+Stone sculpture
+
+<a href="https://imgur.com/Q0UCG3k"><img src="https://imgur.com/Q0UCG3k.jpg" title="unknown" /></a>
+
+Stone sculpture
+
+
+<a href="https://imgur.com/n6gWYcZ"><img src="https://imgur.com/n6gWYcZ.jpg" title="unknown" /></a>
+
+Stone sculpture
+
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 title: 'Cooking'
 date: 2023-10-20
-permalink: /posts/2021/05
+permalink: /posts/2023/16
 tags:
   - Cooking
   - Experience life
