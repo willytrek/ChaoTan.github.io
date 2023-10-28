@@ -1,7 +1,7 @@
 ---
 title: 'Cycling'
 date: 2021-5-5
-permalink: /posts/2021/05
+permalink: /posts/21/05/blog-cycling/
 tags:
   - Trip
   - Western Sichuan
