@@ -12,7 +12,7 @@ Just ride！
 
 Snow-covered landscape from hometown
 
-<a href="https://imgur.com/snQ67SR"><img src="https://imgur.com/snQ67SR.jpg" title="Bicycle" /></a>
+<a href="https://imgur.com/wys9xYB"><img src="https://imgur.com/wys9xYB.jpg" title="Bicycle" /></a>
 
 
 <a href="https://imgur.com/UpOxCdL"><img src="https://imgur.com/UpOxCdL.jpg" title="Riding1" /></a>
