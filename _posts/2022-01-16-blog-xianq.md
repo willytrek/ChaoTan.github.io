@@ -1,5 +1,5 @@
 ---
-title: 'Cultural tour in Xi'an'
+title: 'Cultural tour in Xian'
 date: 2023-10-20
 permalink: /posts/20/08/blog-post-3/
 tags:
