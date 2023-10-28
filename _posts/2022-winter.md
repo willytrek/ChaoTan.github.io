@@ -1,19 +1,18 @@
 ---
 title: 'Snow'
-date: 2022-01
-permalink: /posts/2022-winter
+date: 2022-01-11
+permalink: /posts/2022/winter/
 tags:
   - Snow
   - Trip
-  - haveometown
+  - hometown
 ---
 
 Snow-covered landscape from hometown
-======
 
-You can have many headings
-======
-<a href="https://imgur.com/DpLqiMz"><img src="https://imgur.com/DpLqiMz" title="Camera Image" /></a>
+![](/images/snows/snow_mountains.jpg)
 
-<a href="https://imgur.com/ohXc868"><img src="https://imgur.com/ohXc868" title="Camera Image" /></a>
+
+![](/images/snows/snow_mountains2.jpg)
+
 ------
