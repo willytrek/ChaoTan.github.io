@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student majoring in Optoelectronic Information Science and Engineering at [Sichuan University](https://en.scu.edu.cn/). My research interests include computational optical imaging, biomedical Imaging, 3D display technology, as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in optical imaging, display, and holography.
+I am a final-year undergraduate student majoring in Optoelectronic Information Science and Engineering at [Sichuan University](https://en.scu.edu.cn/). My research interests include computational optical imaging, biomedical imaging, 3D display technology, as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in optical imaging, display, and holography.
 
 I have had the privilege of being advised by [Prof. An Pan](http://www.piclaboratory.com/) from the Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/) in the field of **computational imaging** and **Fourier ptychography**. During the period from July 2022 to July 2023, I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from the College of Electronics and Information Engineering at Sichuan University in the field of **computer-generated holograms** and **diffraction calculations**.
 
