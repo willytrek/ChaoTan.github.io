@@ -2,7 +2,7 @@
 title: "Fast scaled cylindrical holography based on scaled convolution"
 collection: publications
 
-date: 2023-06-21
+date: 2023-12-16
 venue: 'Displays'
 
 ---
