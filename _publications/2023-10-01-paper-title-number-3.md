@@ -1,12 +1,6 @@
 ---
 title: "Fourier ptychographic microscopy 10 years on: A review (Invited)"
 collection: publications
-date: 2023-10-25
-venue: 'Cells'
-
----
-title: "Fourier ptychographic microscopy 10 years on: A review (Invited)"
-collection: publications
 date: 2024-02-14
 venue: 'Cells'
 
@@ -14,5 +8,4 @@ venue: 'Cells'
 
 
 [Details here](https://doi.org/10.3390/cells13040324)
----
 
