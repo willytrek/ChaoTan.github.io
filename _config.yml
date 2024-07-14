@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China, Xi'an"
+locale                   : "China, Shenzhen"
 title                    : "Chao Tan"
 title_separator          : "-"
-name                     : &name "Chao Tan"
-description              : &description "Seeking graduate positions for the Fall of 2024"
+name                     : &name "Chao Tan (谭超）"
+description              : &description "Seeking graduate positions for the Fall of 2026"
 url                      : https://willytrek.github.io/ChaoTan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "willytrek/ChaoTan.github.io"
@@ -62,13 +62,13 @@ analytics:
     tracking_id          :
 # Site Author
 author:
-  name             : "Chao Tan"
+  name             : "Chao Tan (谭超）"
   avatar           :  "tc.png"
-  location         : "China, Xi'an"
+  location         : "China, Shenzhen"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
- # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : tanchao@stu.scu.edu.cn
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=BhMZfncAAAAJ"
+  email            : tanchao_willytrek@qq.com
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -77,7 +77,7 @@ author:
   flickr           :
  # facebook         :
   foursquare       :
-#  github           : "academicpages"
+  github           : "https://github.com/willytrek"
   google_plus      :
   keybase          :
   instagram        :
