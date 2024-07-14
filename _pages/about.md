@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Chao Tan (谭超）. I will be pursuing my master's degree at KAIST and have obtained my bachelor's degree from Sichuan University. My major was Optoelectronic Information Science and Engineering at [Sichuan University](https://en.scu.edu.cn/)
+I’m Chao Tan (谭超). I will be pursuing my master's degree at KAIST and have obtained my bachelor's degree from Sichuan University. My major was Optoelectronic Information Science and Engineering at [Sichuan University](https://en.scu.edu.cn/).
+
 
 My research interests include computational optical imaging, biomedical imaging, 3D display technology, as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in optical imaging, display, and holography.
 
