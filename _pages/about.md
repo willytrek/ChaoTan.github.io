@@ -11,7 +11,8 @@ I’m Chao Tan (谭超）. I will be pursuing my master's degree at KAIST and ha
 
 My research interests include computational optical imaging, biomedical imaging, 3D display technology, as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in optical imaging, display, and holography.
 
-During the period from July 2023 to Jan 2024, I had being advised by [Prof. An Pan](http://www.piclaboratory.com/) from the Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/) in the field of **computational imaging** and **Fourier ptychography**. During the period from July 2022 to July 2023, I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) from the College of Electronics and Information Engineering at Sichuan University in the field of **computer-generated holograms** and **diffraction calculations**.
+From July 2023 to January 2024, I was advised by [Prof. An Pan](http://www.piclaboratory.com/) at the Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/), focusing on **computational imaging** and **Fourier ptychography**. Prior to this, from July 2022 to July 2023, I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) at the College of Electronics and Information Engineering, Sichuan University, where I worked on **computer-generated holograms** and **diffraction calculations**.
+
 
 # Projects
 
