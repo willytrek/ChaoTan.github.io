@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I’m Chao Tan (谭超). I am a Master candidate in [Mooo Research Group](https://mooolab.kaist.ac.kr/index.html) at KAIST, working with Prof. Mooseok Jang.
-Mooseok Jang  
+
 
 My research interests include computational optical imaging, holographic display,as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in holography.
 
