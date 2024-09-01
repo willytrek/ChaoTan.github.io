@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Chao Tan (谭超). I will be pursuing my master's degree at KAIST and have obtained my bachelor's degree from Sichuan University. My major was Optoelectronic Information Science and Engineering at [Sichuan University](https://en.scu.edu.cn/).
+I’m Chao Tan (谭超). I am a Master candidate in [Mooo Research Group](https://mooolab.kaist.ac.kr/index.html) at KAIST, working with Prof. Mooseok Jang.
+Mooseok Jang  
 
+My research interests include computational optical imaging, holographic display,as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in holography.
 
-My research interests include computational optical imaging, biomedical imaging, 3D display technology, as well as Mixed Reality (MR). I originally majored in Architecture in the School of Architecture and Environment at SCU but switched to Optoelectronic Information Science and Engineering in 2021 due to my interest in optical imaging, display, and holography.
-
-From July 2023 to January 2024, I was advised by [Prof. An Pan](http://www.piclaboratory.com/) at the Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/), focusing on **computational imaging** and **Fourier ptychography**. Prior to this, from July 2022 to July 2023, I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) at the College of Electronics and Information Engineering, Sichuan University, where I worked on **computer-generated holograms** and **diffraction calculations**.
+From July 2023 to January 2024, I was advised by [Prof. An Pan](http://www.piclaboratory.com/) at the Xi'an Institute of Optics and Precision Mechanics, [Chinese Academy of Sciences](https://english.cas.cn/), focusing on **Fourier ptychography**. Prior to this, from July 2022 to July 2023, I was advised by [Prof. Jun Wang](https://eie.scu.edu.cn/info/1044/7779.htm) at the College of Electronics and Information Engineering, Sichuan University, where I worked on **computer-generated holograms** and **diffraction calculations**.
 
 
 # Projects
