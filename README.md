@@ -1,5 +1,5 @@
 ## zhaoguangyuan123.github.io
-zhaoguangyuan's [personal website](zhaoguangyuan123.github.io).
+zhaoguangyuan's [personal website].
 
 #### Materials I find useful:
 - [HTML cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
@@ -14,6 +14,14 @@ zhaoguangyuan's [personal website](zhaoguangyuan123.github.io).
 #### Credits: 
 > During time of making my own website, I also follow the following scientists and refer to elements from their excellent websites. 
 
+- [Vincent Sitzmann](https://www.vincentsitzmann.com/)
+- [Hyung Ju Terry Suh](http://hjrobotics.net/)
+- [Yiyue Luo](https://yyueluo.com/)
+## Acknowledgements
+
+The design and source code of this website are adapted from the excellent template kindly provided by [**Guangyuan Zhao**](zhaoguangyuan123.github.io). I sincerely appreciate his generosity.
+
+The template itself was inspired by the websites of the following researchers:
 - [Vincent Sitzmann](https://www.vincentsitzmann.com/)
 - [Hyung Ju Terry Suh](http://hjrobotics.net/)
 - [Yiyue Luo](https://yyueluo.com/)

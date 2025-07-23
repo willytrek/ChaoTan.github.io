@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link href="files/jumbotron.css" rel="stylesheet">
+
+    <script src="js/main.js"></script>
+    <script src="js/scroll.js"></script>
+    <title>Chao Tan</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+        
+    <link rel="stylesheet" href="./static/css/bulma.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="./static/css/index.css">
+    <link rel="icon" href="imgs/tc.png">
+
+    <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+          body {
+              font-family: 'sans-serif';
+              font-size: 16px;
+              background-color: #FFFFFF;
+              color: #383d42;
+          }
+          #header {
+              background-color: #f4f4f4;
+              display: flex;
+              align-items: flex-end;
+              padding-top:40px;
+              padding-bottom:60px;
+          }
+          #footer {
+              background-color: #FFFFFF;
+              padding:60px;
+          }
+          #portrait {
+              border: 3px solid white;
+             /* border-radius: 50%; Remove this line to make the portrait square */
+             width: 80%;
+    height: auto;
+          }
+          #header-text {
+              margin-top: 60px;
+              margin-left: 220px;
+          }
+          #header-text-name {
+              font-size: 40px;
+          }
+          #header-text-email {
+              font-size: 20px;
+          }
+          .header-text-desc {
+              font-size: 20px;
+          }
+          .vspace-top {
+              margin-top: 30px;
+          }
+          .vspace-top-news {
+              margin-top: 15px;
+          }
+          .paper-image {
+              width: 150px;
+          }
+          .news-date {
+              font-weight: bold;
+          }
+          .paper-title {
+              font-weight: bold;
+          }
+          .paper-authors {
+              font-size: 14px;
+          }
+          .paper-desc {
+              font-size: 16px;
+              font-style: oblique;
+          }
+          .center {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 60%;
+          }
+          .material-icons {
+              vertical-align: -6px;
+          }
+          .toggle-button {
+              cursor: pointer;
+          }
+          .highlight-bg {
+              background-color: #f4f4f4;
+              padding: 10px;
+              border-radius: 5px;
+              display: inline-block;
+              margin-bottom: 10px;
+          }
+          .research-section {
+              font-size: 10;
+              color: #0f1410;
+              margin-bottom: 0;
+          }
+          .journal-name {
+              font-size: 14px;
+              color: #5e5e70;  /* dark red color */
+              font-weight: normal;
+          }
+    </style>
+</head>
+
+<body>
+    <div id='header'>
+        <div class='container'>
+            <div class='row'>
+                <div class="col-sm-3 offset-sm-1">
+                    <img src='imgs/tc.png' class='img-fluid' id='portrait'>
+                </div>
+
+                <div class="col">
+                    <div id='header-text-name'>
+                        Chao Tan (谭超)
+                    </div>
+                    <div id='header-text-email'>
+                        chaotan2124(at)gmail(dot)com
+                    </div>
+
+
+                    <div style="margin-top: 10px;">
+                        <a href="https://scholar.google.com/citations?hl=en&user=BhMZfncAAAAJ" style="margin-right: 25px;">
+                            <i class="ai ai-google-scholar" style='font-size:24px'></i>
+                        </a>
+                        <a href="https://github.com/willytrek" style="margin-right: 25px;">
+                            <i class="fab fa-github" style='font-size:22px'></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/chao-tan-5a701727b" style="margin-right: 25px;">
+                            <i class="fab fa-linkedin" style='font-size:22px'></i>
+                        </a>
+                        <a href="files/Chao_Tan_CV.pdf">
+                            <i class="ai ai-cv" style='font-size:24px'></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class='container'>
+        <div class='row vspace-top'>
+            <div class='col offset-sm-1'>
+                <h3>About Me</h3>
+                <p>
+                    I am a Master's student in Prof. Mooseok Jang's group at KAIST, expecting to graduate in June 2026. I received my Bachelor of Engineering degree from Sichuan University in 2024.
+                </p>
+                
+                <div class="highlight-bg">
+                    My research focuses on developing advanced algorithms and optical systems—including Fourier ptychography and diffraction tomography—to solve challenging 3D imaging problems. I am seeking a Ph.D. position to pioneer next-generation computational imaging techniques for <strong>high-fidelity industrial metrology</strong> and <strong>non-destructive material characterization</strong>.
+                </div>
+            </div>
+        </div>
+
+        <div class='vspace-top'>
+            <h2>News</h2>
+        </div>
+        
+        <div style="height:300px;overflow-y:auto">
+            <div class='row vspace-top-news'>
+                <div class="col-sm-2 news-date">
+                    Sept 2024
+                </div>
+                <div class="col">
+                    Started my Master's degree in Bio and Brain Engineering at KAIST, joining the Mooo Research Group.
+                </div>
+            </div>
+            <div class='row vspace-top-news'>
+                <div class="col-sm-2 news-date">
+                    June 2024
+                </div>
+                <div class="col">
+                    Graduated from Sichuan University with a Bachelor of Engineering and received the First Prize for Outstanding Undergraduate Thesis.
+                </div>
+            </div>
+            <div class='row vspace-top-news'>
+                <div class="col-sm-2 news-date">
+                    Jan 2024
+                </div>
+                <div class="col">
+                    Our paper, "Fast scaled cylindrical holography based on scaled convolution," was published in <i>Displays</i>.
+                </div>
+            </div>
+        </div>
+
+       <div class='vspace-top'>
+    <h1>Selected Publications</h1>
+    (<sup>†</sup>indicates equal contributionship; <b><u>underline and bold</u></b> indicates my name.)
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='imgs/Uncertainty-aware_FP.png' style="width: 150%;" class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Uncertainty-aware Fourier ptychography
+        </div>
+        <div class='paper-authors'>
+            N. Chen<sup>†</sup><sup>✉</sup>, Y. Wu<sup>†</sup>, <b><u>Chao Tan</u></b>, L. Cao, J. Wang<sup>✉</sup>, and E. Y. Lam<sup>✉</sup>
+        </div>
+        <div class='paper-desc' style="font-size: inherit;">
+            <span class="journal-name">Light: Science & Applications, 2025</span>
+            [<a href='https://www.nature.com/articles/s41377-025-01915-w' target="_blank" rel="noopener">Paper</a>]
+
+        </div>
+        <div class='paper-abstract'></div>
+        <div>
+            <font size=2><b>TL;DR:</b> To overcome common experimental errors in Fourier Ptychography, we introduce a physics-informed differentiable framework that jointly optimizes for the image and system parameters, significantly boosting reconstruction fidelity.</font>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='imgs/FP_review_overview.png' style="width: 200%;" class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Fourier ptychographic microscopy 10 years on: a review
+        </div>
+        <div class='paper-authors'>
+            F. Xu<sup>†</sup>, Z. Wu<sup>†</sup>, <b><u>Chao Tan</u></b>, Y. Liao, Z. Wang, K. Chen, and A. Pan<sup>✉</sup>
+        </div>
+        <div class='paper-desc' style="font-size: inherit;">
+            <span class="journal-name">Cells, 2024</span>
+            [<a href='https://www.mdpi.com/2073-4409/13/4/324' target="_blank" rel="noopener">Paper</a>]
+        </div>
+        <div class='paper-abstract'></div>
+        <div>
+            <font size=2><b>TL;DR:</b> A comprehensive 10-year review of Fourier Ptychography, charting its evolution from core principles to its current applications in digital pathology and 3D imaging, and exploring its future synergy with deep learning.</font>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='imgs/Scale_hologram.jpg' style="width: 150%;" class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Fast scaled cylindrical holography based on scaled convolution
+        </div>
+        <div class='paper-authors'>
+            <b><u>Chao Tan</u></b>, J. Wang<sup>✉</sup>, Y. Wu, J. Zhou, and N. Chen
+        </div>
+        <div class='paper-desc' style="font-size: inherit;">
+            <span class="journal-name">Displays, 2024</span>
+            [<a href='https://doi.org/10.1016/j.displa.2023.102619' target="_blank" rel="noopener">Paper</a>]
+        </div>
+        <div class='paper-abstract'></div>
+        <div>
+            <font size=2><b>TL;DR:</b> To address the height limitations of current cylindrical holography, we developed a new diffraction algorithm based on scaled convolution that is fast, flexible, and validated by optical experiments. </font>
+        </div>
+    </div>
+</div>
+
+<div class='row vspace-top'>
+    <div class="col-sm-4">
+        <img src='imgs/Maxwellian display.jpg' style="width: 150%;" class='img-fluid'>
+    </div>
+    <div class="col">
+        <div class='paper-title'>
+            Large field-of-view holographic Maxwellian display based on spherical crown diffraction
+        </div>
+        <div class='paper-authors'>
+            W. Zhang, J. Wang<sup>✉</sup>, <b><u>Chao Tan</u></b>, Y. Wu, Y. Zhang, and N. Chen
+        </div>
+        <div class='paper-desc' style="font-size: inherit;">
+            <span class="journal-name">Optics Express, 2023</span>
+            [<a href='https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-14-22660&id=532169' target="_blank" rel="noopener">Paper</a>]
+
+        </div>
+        <div class='paper-abstract'> </div>
+        <div>
+            <font size=2><b>TL;DR: </b> To solve the limited field-of-view in current holographic near-eye displays, we developed a new diffraction algorithm using a spherical crown model that enables full-FOV performance without complex optics.</font>
+        </div>
+    </div>
+</div>
+
+    <div id='footer' class='vspace-top'>
+        <div class="container">
+            <p style="font-size: 12px; text-align: right;">
+                Last Modified: <span id="lastModified"></span>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('lastModified').textContent = new Date(document.lastModified).toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+    </script>
+</body>
+</html>
