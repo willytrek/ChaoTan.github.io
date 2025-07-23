@@ -3,7 +3,7 @@ name: Deploy Jekyll site to Pages
 on:
   push:
     branches:
-      - main  # 修改为你的主分支名，如果不是 main
+      - master  # 如你的主分支不是 main，请修改
 
 jobs:
   build:
