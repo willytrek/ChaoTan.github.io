@@ -1,0 +1,134 @@
+body {
+    font-family: 'sans-serif';
+    font-size: 16px;
+    background-color: #FFFFFF;
+    color: #383d42;
+}
+#header {
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: flex-end;
+    padding-top:40px;
+    padding-bottom:60px;
+}
+#footer {
+    background-color: #FFFFFF;
+    padding:60px;
+}
+#portrait {
+    border: 3px solid white;
+   /* border-radius: 50%; Remove this line to make the portrait square */
+   width: 80%;
+height: auto;
+}
+#header-text {
+    margin-top: 60px;
+    margin-left: 220px;
+}
+#header-text-name {
+    font-size: 40px;
+}
+#header-text-email {
+    font-size: 20px;
+}
+.header-text-desc {
+    font-size: 20px;
+}
+.vspace-top {
+    margin-top: 30px;
+}
+.vspace-top-news {
+    margin-top: 15px;
+}
+.paper-image {
+    width: 150px;
+}
+.news-date {
+    font-weight: bold;
+}
+.paper-title {
+    font-weight: bold;
+}
+.paper-authors {
+    font-size: 14px;
+}
+.paper-desc {
+    font-size: 16px;
+    font-style: oblique;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.material-icons {
+    vertical-align: -6px;
+}
+.toggle-button {
+    cursor: pointer;
+}
+.highlight-bg {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.research-section {
+    font-size: 10;
+    color: #0f1410;
+    margin-bottom: 0;
+}
+.journal-name {
+    font-size: 14px;
+    color: #5e5e70;  /* dark red color */
+    font-weight: normal;
+}
+.chinese-name {
+    font-family: 'Kaiti', 'STKaiti', 'Kai', '楷体', serif;
+}
+.social-links {
+    margin-top: 10px;
+}
+.social-links a {
+    margin-right: 25px;
+}
+.social-links .ai-google-scholar {
+    font-size:24px;
+}
+.social-links .fa-github {
+    font-size:22px;
+}
+.social-links .fa-linkedin {
+    font-size:22px;
+}
+.social-links .ai-cv {
+    font-size:24px;
+}
+.meta-top-margin {
+    margin-top:8px;
+}
+.news-scroll {
+    height:300px;
+    overflow-y:auto;
+}
+.pub-img-1 {
+    width: 150%;
+}
+.pub-img-2 {
+    width: 200%;
+}
+.pub-img-3 {
+    width: 150%;
+}
+.pub-img-4 {
+    width: 150%;
+}
+.paper-desc-font {
+    font-size: inherit;
+}
+.footer-text {
+    font-size: 12px;
+    text-align: right;
+}
