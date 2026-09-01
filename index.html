@@ -2,10 +2,6 @@
 <html>
 <head>
 
-    <link href="files/jumbotron.css" rel="stylesheet">
-
-    <script src="js/main.js"></script>
-    <script src="js/scroll.js"></script>
     <title>Chao Tan</title>
 
     <meta charset="utf-8">
@@ -16,12 +12,7 @@
     <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
         
-    <link rel="stylesheet" href="./static/css/bulma.min.css">
-    <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
-    <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
-    <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-    <link rel="stylesheet" href="./static/css/index.css">
     <link rel="icon" href="imgs/tc.png">
 
     <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
@@ -31,93 +22,281 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <style>
-          body {
-              font-family: 'sans-serif';
-              font-size: 16px;
-              background-color: #FFFFFF;
-              color: #383d42;
-          }
-          #header {
-              background-color: #f4f4f4;
-              display: flex;
-              align-items: flex-end;
-              padding-top:40px;
-              padding-bottom:60px;
-          }
-          #footer {
-              background-color: #FFFFFF;
-              padding:60px;
-          }
-          #portrait {
-              border: 3px solid white;
-             /* border-radius: 50%; Remove this line to make the portrait square */
-             width: 80%;
-    height: auto;
-          }
-          #header-text {
-              margin-top: 60px;
-              margin-left: 220px;
-          }
-          #header-text-name {
-              font-size: 40px;
-          }
-          #header-text-email {
-              font-size: 20px;
-          }
-          .header-text-desc {
-              font-size: 20px;
-          }
-          .vspace-top {
-              margin-top: 30px;
-          }
-          .vspace-top-news {
-              margin-top: 15px;
-          }
-          .paper-image {
-              width: 150px;
-          }
-          .news-date {
-              font-weight: bold;
-          }
-          .paper-title {
-              font-weight: bold;
-          }
-          .paper-authors {
-              font-size: 14px;
-          }
-          .paper-desc {
-              font-size: 16px;
-              font-style: oblique;
-          }
-          .center {
-              display: block;
-              margin-left: auto;
-              margin-right: auto;
-              width: 60%;
-          }
-          .material-icons {
-              vertical-align: -6px;
-          }
-          .toggle-button {
-              cursor: pointer;
-          }
-          .highlight-bg {
-              background-color: #f4f4f4;
-              padding: 10px;
-              border-radius: 5px;
-              display: inline-block;
-              margin-bottom: 10px;
-          }
-          .research-section {
-              font-size: 10;
-              color: #0f1410;
-              margin-bottom: 0;
-          }
-          .journal-name {
-              font-size: 14px;
-              color: #5e5e70;  /* dark red color */
-              font-weight: normal;
-          }
+        :root {
+            --ink: #202b35;
+            --muted: #66727e;
+            --accent: #1f5f91;
+            --accent-soft: #eef5fa;
+            --border: #dce3e8;
+            --surface: #f7f9fb;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Noto Sans', 'Google Sans', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.65;
+            background: #ffffff;
+            color: var(--ink);
+        }
+
+        a {
+            color: var(--accent);
+        }
+
+        a:hover {
+            color: #15466c;
+            text-decoration: none;
+        }
+
+        .container {
+            max-width: 1080px;
+        }
+
+        #header {
+            padding: 52px 0;
+            background: linear-gradient(135deg, #f8fafc 0%, #edf3f7 100%);
+            border-bottom: 1px solid var(--border);
+        }
+
+        #header .row {
+            align-items: center;
+        }
+
+        #portrait {
+            display: block;
+            width: 210px;
+            height: 210px;
+            object-fit: cover;
+            border: 5px solid #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 8px 28px rgba(25, 47, 65, 0.14);
+        }
+
+        #header-text-name {
+            font-family: 'Castoro', Georgia, serif;
+            font-size: 42px;
+            line-height: 1.2;
+            letter-spacing: -0.02em;
+        }
+
+        .header-role {
+            margin-top: 8px;
+            color: var(--muted);
+            font-size: 17px;
+        }
+
+        #header-text-email {
+            margin-top: 4px;
+            font-size: 16px;
+        }
+
+        .profile-links {
+            display: flex;
+            gap: 22px;
+            margin-top: 14px;
+        }
+
+        .profile-links a {
+            color: var(--accent);
+        }
+
+        .page-content {
+            padding-top: 14px;
+        }
+
+        .content-section {
+            padding: 38px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .section-title {
+            margin: 0 0 20px;
+            font-family: 'Castoro', Georgia, serif;
+            font-size: 30px;
+            color: var(--ink);
+        }
+
+        .about-copy {
+            max-width: 920px;
+            margin-bottom: 18px;
+            font-size: 17px;
+        }
+
+        .research-focus {
+            max-width: 920px;
+            padding: 16px 20px;
+            border-left: 4px solid var(--accent);
+            border-radius: 0 6px 6px 0;
+            background: var(--accent-soft);
+        }
+
+        .news-list {
+            max-width: 920px;
+        }
+
+        .news-item {
+            display: grid;
+            grid-template-columns: 112px minmax(0, 1fr);
+            gap: 22px;
+            align-items: start;
+            padding: 16px 0;
+            border-bottom: 1px solid #edf0f2;
+        }
+
+        .news-item:last-child {
+            border-bottom: 0;
+        }
+
+        .news-date {
+            display: inline-block;
+            min-width: 94px;
+            padding: 3px 10px;
+            color: var(--accent);
+            background: var(--accent-soft);
+            border: 1px solid #d9e8f3;
+            border-radius: 999px;
+            font-size: 13px;
+            font-weight: 700;
+            line-height: 1.5;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .news-item > div:last-child {
+            padding-top: 1px;
+            line-height: 1.6;
+        }
+
+        .publication-note {
+            margin: -10px 0 26px;
+            color: var(--muted);
+            font-size: 13px;
+        }
+
+        .publication {
+            align-items: center;
+            margin: 0;
+            padding: 26px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .publication:last-of-type {
+            border-bottom: 0;
+        }
+
+        .publication-media {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-right: 28px;
+        }
+
+        .publication-media img {
+            width: 100% !important;
+            max-width: 280px;
+            max-height: 180px;
+            object-fit: contain;
+        }
+
+        .paper-title {
+            margin-bottom: 6px;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 1.4;
+            color: var(--ink);
+        }
+
+        .paper-authors {
+            margin-bottom: 5px;
+            font-size: 14px;
+            line-height: 1.55;
+        }
+
+        .paper-desc {
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .journal-name {
+            color: var(--muted);
+            font-style: italic;
+        }
+
+        .paper-summary {
+            margin: 0;
+            color: #44515c;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        #footer {
+            padding: 32px 0 44px;
+            color: var(--muted);
+        }
+
+        @media (max-width: 767.98px) {
+            #header {
+                padding: 34px 0 38px;
+            }
+
+            #header .row {
+                text-align: center;
+            }
+
+            #portrait {
+                width: 156px;
+                height: 156px;
+                margin: 0 auto 22px;
+            }
+
+            #header-text-name {
+                font-size: 34px;
+            }
+
+            .profile-links {
+                justify-content: center;
+            }
+
+            .content-section {
+                padding: 30px 0;
+            }
+
+            .section-title {
+                font-size: 27px;
+            }
+
+            .about-copy {
+                font-size: 16px;
+            }
+
+            .news-item {
+                display: block;
+                padding: 14px 0;
+            }
+
+            .news-date {
+                margin-bottom: 8px;
+            }
+
+            .news-item > div:last-child {
+                padding-top: 0;
+            }
+
+            .publication {
+                padding: 24px 0;
+            }
+
+            .publication-media {
+                padding-right: 15px;
+                margin-bottom: 18px;
+            }
+
+            .publication-media img {
+                max-width: 320px;
+                max-height: 210px;
+            }
+        }
     </style>
 </head>
 
@@ -126,29 +305,31 @@
         <div class='container'>
             <div class='row'>
                 <div class="col-sm-3 offset-sm-1">
-                    <img src='imgs/tc.png' class='img-fluid' id='portrait'>
+                    <img src='imgs/tc_event.jpg' class='img-fluid' id='portrait' alt='Portrait of Chao Tan'>
                 </div>
 
                 <div class="col">
                     <div id='header-text-name'>
                         Chao Tan <span class="chinese-name">(谭超)</span>
                     </div>
+                    <div class="header-role">
+                        Ph.D. Student · Electrical and Computer Engineering · The University of Hong Kong
+                    </div>
                     <div id='header-text-email'>
-                        chaotan(at)kaist(dot)ac(dot)kr
+                        <a href="mailto:chaotan2026@connect.hku.hk">chaotan2026@connect.hku.hk</a>
                     </div>
 
-
-                    <div style="margin-top: 10px;">
-                        <a href="https://scholar.google.com/citations?hl=en&user=BhMZfncAAAAJ" style="margin-right: 25px;">
+                    <div class="profile-links">
+                        <a href="https://scholar.google.com/citations?hl=en&user=BhMZfncAAAAJ" aria-label="Google Scholar" title="Google Scholar">
                             <i class="ai ai-google-scholar" style='font-size:24px'></i>
                         </a>
-                        <a href="https://github.com/willytrek" style="margin-right: 25px;">
+                        <a href="https://github.com/willytrek" aria-label="GitHub" title="GitHub">
                             <i class="fab fa-github" style='font-size:22px'></i>
                         </a>
-                        <a href="https://www.linkedin.com/in/chao-tan-5a701727b" style="margin-right: 25px;">
+                        <a href="https://www.linkedin.com/in/chao-tan-5a701727b" aria-label="LinkedIn" title="LinkedIn">
                             <i class="fab fa-linkedin" style='font-size:22px'></i>
                         </a>
-                        <a href="files/Chao_Tan_CV.pdf">
+                        <a href="files/Chao_tan_CV.pdf" aria-label="Curriculum Vitae" title="Curriculum Vitae">
                             <i class="ai ai-cv" style='font-size:24px'></i>
                         </a>
                     </div>
@@ -158,59 +339,59 @@
     </div>
 
 
-    <div class='container'>
-        <div class='row vspace-top'>
-            <div class='col offset-sm-1'>
-                <h3>About Me</h3>
-                <p>
-                I am a Master’s student in  <a class="lab-link" href="https://mooolab.kaist.ac.kr/index.html" target="_blank" rel="noopener noreferrer"><strong>Prof. Mooseok Jang’s</strong> </a> group at KAIST, expecting to graduate in June 2026. I received my B.Eng. degree from Sichuan University in 2024. I am seeking a Ph.D. position starting in Fall 2026.
-                </p>
-                                
-                <div class="highlight-bg">
-                    My research focuses on developing advanced algorithms and optical systems—including Fourier ptychography and diffraction tomography—to solve challenging 3D imaging problems. I am seeking a Ph.D. position to pioneer next-generation computational imaging techniques for <strong>high-fidelity industrial metrology</strong> and <strong>non-destructive material characterization</strong>.
-                </div>
-            </div>
-        </div>
+    <main class='container page-content'>
+        <section class="content-section">
+            <h2 class="section-title">About Me</h2>
+            <p class="about-copy">
+                I am a Ph.D. student in the Department of Electrical and Computer Engineering at <a href="https://www.hku.hk/" target="_blank" rel="noopener noreferrer"><strong>The University of Hong Kong (HKU)</strong></a>, advised by <a href="https://web.ece.hku.hk/~elam/" target="_blank" rel="noopener noreferrer"><strong>Prof. Edmund Y. Lam</strong></a>. Prior to joining HKU, I received my M.S. degree in Bio and Brain Engineering from KAIST under the supervision of <a href="https://mooolab.kaist.ac.kr/index.html" target="_blank" rel="noopener noreferrer"><strong>Prof. Mooseok Jang</strong></a>, and my B.Eng. degree from Sichuan University.
+            </p>
 
-        <div class='vspace-top'>
-            <h2>News</h2>
-        </div>
-        
-        <div style="height:300px;overflow-y:auto">
-            <div class='row vspace-top-news'>
-                <div class="col-sm-2 news-date">
-                    Sept 2024
-                </div>
-                <div class="col">
-                    Started my Master's degree in Bio and Brain Engineering at KAIST, joining the Mooo Research Group.
-                </div>
+            <div class="research-focus">
+                My research centers on <strong>perception</strong>: how imaging systems can sense and interpret their environments more efficiently and rapidly. I am interested in perception across spatial scales—from macroscopic scenes to microscopic structures—and across representations from <strong>2D to 3D</strong>, drawing on event-based vision, computational photography, and computational microscopy. In the long term, I aspire to develop imaging instruments that can capture and recreate meaningful memories as rich, multidimensional experiences beyond conventional photographs and videos.
             </div>
-            <div class='row vspace-top-news'>
-                <div class="col-sm-2 news-date">
-                    June 2024
-                </div>
-                <div class="col">
-                    Graduated from Sichuan University with a Bachelor of Engineering and received the First Prize for Outstanding Undergraduate Thesis.
-                </div>
-            </div>
-            <div class='row vspace-top-news'>
-                <div class="col-sm-2 news-date">
-                    Jan 2024
-                </div>
-                <div class="col">
-                    Our paper, "Fast scaled cylindrical holography based on scaled convolution," was published in <i>Displays</i>.
-                </div>
-            </div>
-        </div>
+        </section>
 
-       <div class='vspace-top'>
-    <h1>Selected Publications</h1>
-    (<sup>†</sup> indicates equal contributionship; <sup>✉</sup> indicates corresponding authorship; <b><u>underline and bold</u></b> indicates my name.)
-</div>
+        <section class="content-section">
+            <h2 class="section-title">News</h2>
+            <div class="news-list">
+                <div class="news-item">
+                    <div class="news-date">Sep 2026</div>
+                    <div>Joined HKU ECE as a Ph.D. student under the supervision of Prof. Edmund Y. Lam.</div>
+                </div>
+                <div class="news-item">
+                    <div class="news-date">Aug 2026</div>
+                    <div>Received my M.S. degree in Bio and Brain Engineering from KAIST under the supervision of Prof. Mooseok Jang.</div>
+                </div>
+                <div class="news-item">
+                    <div class="news-date">Jul 2026</div>
+                    <div>Our paper, “<a href="https://doi.org/10.1088/2515-7647/ae82d1" target="_blank" rel="noopener noreferrer">Beyond the weak-scattering limit: accurate Kramers–Kronig phase imaging of high-contrast reflective surfaces via pupil modulation</a>,” was published in <i>Journal of Physics: Photonics</i>.</div>
+                </div>
+                <div class="news-item">
+                    <div class="news-date">Oct 2025</div>
+                    <div>Presented the poster “<strong>Robust Fourier ptychographic tomography via feature domain</strong>” at the <i>SPIE Advanced Biophotonics Congress (SPIE ABC 2025)</i>.</div>
+                </div>
+                <div class="news-item">
+                    <div class="news-date">Sep 2024</div>
+                    <div>Started my M.S. studies in Bio and Brain Engineering at KAIST and joined the Mooo Research Group.</div>
+                </div>
+                <div class="news-item">
+                    <div class="news-date">Jun 2024</div>
+                    <div>Graduated from Sichuan University with a B.Eng. degree and received the First Prize for Outstanding Undergraduate Thesis.</div>
+                </div>
+                <div class="news-item">
+                    <div class="news-date">Jan 2024</div>
+                    <div>Our paper, “Fast scaled cylindrical holography based on scaled convolution,” was published in <i>Displays</i>.</div>
+                </div>
+            </div>
+        </section>
 
-<div class='row vspace-top'>
-    <div class="col-sm-4">
-        <img src='imgs/Uncertainty-aware_FP.png' style="width: 150%;" class='img-fluid'>
+        <section class="content-section">
+            <h2 class="section-title">Selected Publications</h2>
+            <p class="publication-note"><sup>†</sup> Equal contribution · <sup>✉</sup> Corresponding author · <b><u>Bold and underlined</u></b> indicates my name.</p>
+
+<div class='row publication'>
+    <div class="col-sm-4 publication-media">
+        <img src='imgs/Uncertainty-aware_FP.png' class='img-fluid' alt='Overview of uncertainty-aware Fourier ptychography'>
     </div>
     <div class="col">
         <div class='paper-title'>
@@ -225,15 +406,13 @@
 
         </div>
         <div class='paper-abstract'></div>
-        <div>
-            <font size=2><b>TL;DR:</b> To overcome common experimental errors in Fourier Ptychography, we introduce a physics-informed differentiable framework that jointly optimizes for the image and system parameters, significantly boosting reconstruction fidelity.</font>
-        </div>
+        <p class="paper-summary"><b>Summary:</b> A physics-informed differentiable framework that jointly estimates the sample and system parameters, improving the robustness and fidelity of Fourier ptychographic reconstruction under experimental uncertainties.</p>
     </div>
 </div>
 
-<div class='row vspace-top'>
-    <div class="col-sm-4">
-        <img src='imgs/FP_review_overview.png' style="width: 200%;" class='img-fluid'>
+<div class='row publication'>
+    <div class="col-sm-4 publication-media">
+        <img src='imgs/FP_review_overview.png' class='img-fluid' alt='Overview of Fourier ptychographic microscopy'>
     </div>
     <div class="col">
         <div class='paper-title'>
@@ -247,15 +426,13 @@
             [<a href='https://www.mdpi.com/2073-4409/13/4/324' target="_blank" rel="noopener">Paper</a>]
         </div>
         <div class='paper-abstract'></div>
-        <div>
-            <font size=2><b>TL;DR:</b> A comprehensive 10-year review of Fourier Ptychography, charting its evolution from core principles to its current applications in digital pathology and 3D imaging, and exploring its future synergy with deep learning.</font>
-        </div>
+        <p class="paper-summary"><b>Summary:</b> A comprehensive review of the first decade of Fourier ptychographic microscopy, spanning its theoretical foundations, system implementations, biomedical applications, three-dimensional imaging, and integration with deep learning.</p>
     </div>
 </div>
 
-<div class='row vspace-top'>
-    <div class="col-sm-4">
-        <img src='imgs/Scale_hologram.jpg' style="width: 150%;" class='img-fluid'>
+<div class='row publication'>
+    <div class="col-sm-4 publication-media">
+        <img src='imgs/Scale_hologram.jpg' class='img-fluid' alt='Scaled cylindrical holography system'>
     </div>
     <div class="col">
         <div class='paper-title'>
@@ -269,15 +446,13 @@
             [<a href='https://doi.org/10.1016/j.displa.2023.102619' target="_blank" rel="noopener">Paper</a>]
         </div>
         <div class='paper-abstract'></div>
-        <div>
-            <font size=2><b>TL;DR:</b> To address the height limitations of current cylindrical holography, we developed a new diffraction algorithm based on scaled convolution that is fast, flexible, and validated by optical experiments. </font>
-        </div>
+        <p class="paper-summary"><b>Summary:</b> A scaled-convolution diffraction method that enables efficient and flexible cylindrical hologram generation beyond conventional height constraints, validated through optical experiments.</p>
     </div>
 </div>
 
-<div class='row vspace-top'>
-    <div class="col-sm-4">
-        <img src='imgs/Maxwellian display.jpg' style="width: 150%;" class='img-fluid'>
+<div class='row publication'>
+    <div class="col-sm-4 publication-media">
+        <img src='imgs/Maxwellian display.jpg' class='img-fluid' alt='Holographic Maxwellian display based on spherical crown diffraction'>
     </div>
     <div class="col">
         <div class='paper-title'>
@@ -292,11 +467,12 @@
 
         </div>
         <div class='paper-abstract'> </div>
-        <div>
-            <font size=2><b>TL;DR: </b> To solve the limited field-of-view in current holographic near-eye displays, we developed a new diffraction algorithm using a spherical crown model that enables full-FOV performance without complex optics.</font>
-        </div>
+        <p class="paper-summary"><b>Summary:</b> A spherical-crown diffraction model for holographic Maxwellian displays that expands the achievable field of view without introducing complex optical components.</p>
     </div>
 </div>
+
+        </section>
+    </main>
 
     <div id='footer' class='vspace-top'>
         <div class="container">
